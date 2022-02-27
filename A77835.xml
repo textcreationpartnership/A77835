@@ -1,0 +1,570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The marrovv of divinity Wherein the weakest Christian may be informed in the whole body of gospel-truths. By George Burches batchelor in divinity; rector of Woodchurch, within the county of Cheshire; and sometimes minister of St. Johns Church in Chester.</title>
+            <author>Burches, George, d. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77835</idno>
+            <idno type="STC">Wing B5614</idno>
+            <idno type="STC">Thomason E1376_1</idno>
+            <idno type="STC">ESTC R209237</idno>
+            <idno type="EEBO-CITATION">99868123</idno>
+            <idno type="PROQUEST">99868123</idno>
+            <idno type="VID">169876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169876)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1376[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The marrovv of divinity Wherein the weakest Christian may be informed in the whole body of gospel-truths. By George Burches batchelor in divinity; rector of Woodchurch, within the county of Cheshire; and sometimes minister of St. Johns Church in Chester.</title>
+                  <author>Burches, George, d. 1658.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Marmaduke Boat, and are to be sold neer Pauls Wharfe, at the White Lyon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Religion --  Early works to 1800.</term>
+               <term>Christianity --  Essence, genius, nature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169876:1" rendition="simple:additions"/>
+            <p>THE MARROW OF DIVINITY.</p>
+            <p>Wherein the weakeſt Chriſtian may be informed in the whole Body OF Goſpel-Truths.</p>
+            <p>By <hi>George Burches</hi> Batchelor in Divi<g ref="char:EOLhyphen"/>nity; Rector of <hi>Woodchurch,</hi> within the County of <hi>Cheſhire;</hi> and ſometimes Miniſter of St. <hi>Johns</hi> Church in <hi>Cheſter.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 22.6.</bibl>
+               <p>Train up a Childe in the way that he ſhould go, and when he is old, he will not depart from it.</p>
+            </q>
+            <q>
+               <p>Quo ſemel eſt imbuta recens ſervabit odorem teſta diu.</p> 
+               <bibl>—Hor.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Marmaduke Boat,</hi> and are to be ſold neer <hi>Pauls Wharfe,</hi> at the White <hi>Lyon.</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169876:2"/>
+            <pb facs="tcp:169876:2"/>
+            <head>TO The READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am not ignorant how that the Preſſes ſwell with ſubjects of this nature, and though many worthy men have written in this kinde, yet here I dare be bold to ſay, thou ſhalt be ſure to finde the quinteſ<g ref="char:EOLhyphen"/>ſence of their writings, cloſed within this cabinet of brevity: Let it therefore move thee to read, and try by experience, what is there<g ref="char:EOLhyphen"/>in contained, and thou ſhalt finde
+<pb facs="tcp:169876:3"/>the pureneſs of golden Truths, brought within the compaſs of a little room; which for thy me<g ref="char:EOLhyphen"/>mory, being ſhorter, I hope will prove the better; the better to be carryed away, and the better to be kept, and the better to be called for, when thou haſt uſe for them: what benefit therefore thou doeſt reap from this ſhort <hi>Compendium,</hi> Give God the glory, and I am therefore fully ſatisfied in my re<g ref="char:EOLhyphen"/>ward, and reſt,</p>
+            <closer>
+               <signed>The leaſt and unworthieſt of the Churches Servants, <hi>Geo. Burches.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:169876:3"/>
+            <head>A ſhort Catechiſm</head>
+            <head type="sub">Queſtion.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat ought to be the main end of mans chiefeſt endeavors?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mans chiefeſt endeavor ought to be the glory of his God, the gain<g ref="char:EOLhyphen"/>ing of Chriſt, and the enjoyment of Heaven, 2 <hi>Corinth.</hi> 10.31. <hi>Phil.</hi> 2.12.</p>
+            <p>Q. <hi>How doth it appear, that there is a God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Book of Nature, the Book of Scripture, and the Book of Conſcience.</p>
+            <p>Q. <hi>VVhat is the book of nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The glorions work of the Creation, wherein the vaſt fabrick and frame of the world, moved by a ſupream power, ſhew that there is a God, <hi>Pſal.</hi> 19 1.</p>
+            <p>Q <hi>What is the Book of Scripture?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the revealed will of God, written in this word, given by inſpiration of God unto his people, and con<g ref="char:EOLhyphen"/>tained in the old and new Teſtament. <hi>Math.</hi> 11.25. 2 <hi>Tim.</hi> 3.16.</p>
+            <p>Q. <hi>VVhat is the book of conſcience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The book of conſcience, is that light which God hath left in mans ſoule ſince <hi>Adams</hi> fall, called the Law written in our hearts, informing mans judgment of a God to be feared, and of an Hell to be avoided, <hi>Rom.</hi> 2.15.</p>
+            <p>Q. <hi>VVhat is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is a Spirit incomprehenſible, immutable, moſt wiſe, moſt holy, moſt merciful, eternal, <hi>John</hi> 4.24. <hi>Jer.</hi> 23.34. <hi>Jam.</hi> 1.17. <hi>Pſal.</hi> 147.5. <hi>Rom.</hi> 11.13. <hi>Pſal.</hi> 5.4. <hi>Iſai.</hi> 6.3. <hi>Exod.</hi> 3.6, 7. <hi>Pſal.</hi> 90.2.</p>
+            <p>Q. <hi>Are there more Gods then one?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is but only one, and no more, <hi>Deut.</hi> 6.4. <hi>Iſai.</hi> 44.6, 8.</p>
+            <pb facs="tcp:169876:4"/>
+            <p>Q. <hi>How is this God to be conceived of us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As he hath revealed himſelf by his properties and works, <hi>Deut.</hi> 4.16. <hi>Judg.</hi> 13.18. <hi>Tim.</hi> 6.16.</p>
+            <p>Q. <hi>VVhat are the chief properties of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His wiſdom, his holineſs, his omnipotence, his omniſcience, his eternity, his mercy, and his juſtice, <hi>Job</hi> 12.13. <hi>Iſai.</hi> 6.3. <hi>&amp;</hi> 41.4. <hi>Pſal.</hi> 139.</p>
+            <p>Q. <hi>What are the works of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That eternal Decree, whereby God hath deter<g ref="char:EOLhyphen"/>mined with himſelf, ſhall come to paſs the creation of the world, and all things therein, and the continuation of their being, by his ſpecial providence, <hi>Gen.</hi> 1.1. <hi>Act</hi> 17.18.</p>
+            <p>Q. <hi>What are we further to conceive concerning God, and to beleeve?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That in one ſimple and undivided Godhead, there be three diſtinct perſons, Father, Son, and Holy Ghoſt; which three, are one God, equal in glory, coeternal in majeſty, though diſtinguiſhed by their perſon proper<g ref="char:EOLhyphen"/>ties, <hi>Matth.</hi> 8.19. 2 <hi>Cor.</hi> 13.13. 1 <hi>John</hi> 5.7.</p>
+            <p>Q <hi>What are the perſonal properties?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is proper to the Father to beget the Son, the Son to begotten of the Father, and the Holy Ghoſt to proceed from them both, <hi>Pſal.</hi> 2 7. <hi>Joh.</hi> 1.14. <hi>&amp;</hi> 7.16.</p>
+            <p>Q. <hi>How doth it appear, that the Son and the Holy Ghoſt, are God equal with the Father?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By their names and attributes, works and wor<g ref="char:EOLhyphen"/>ſhip, aſcribed unto them, <hi>Iſai.</hi> 9.6. <hi>Deut</hi> 9.16. <hi>John</hi> 14.18, 28.</p>
+            <p>Q. <hi>What was the firſt ſtate and condition of man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was a moſt happy and glorious condition, <hi>Gen.</hi> 1.26. 1 <hi>Cor.</hi> 11.7. <hi>Col.</hi> 3.10. <hi>Pſal</hi> 8.6, 7.8.</p>
+            <p>Q <hi>Wherein ſtood the happineſs and glory of it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In that man was the character of his God, created after his Image; ſtanding in wiſdom and holineſs, voyd of the leaſt tincture of evil, <hi>Epheſ.</hi> 4.24. <hi>Gen.</hi> 3.1. <hi>&amp;</hi> 9 6. <hi>Pſal.</hi> 139.14.</p>
+            <p>Q. <hi>Did man continue long in this happy eſtate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but fell from wiſdom to folly, from righte<g ref="char:EOLhyphen"/>ouſneſs to ſin, <hi>Eccleſ.</hi> 7.29. <hi>Rom.</hi> 18.19. <hi>Pſal.</hi> 49.12.</p>
+            <pb facs="tcp:169876:4"/>
+            <p>Q. <hi>Wherein doth this ſtate of miſery appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the loſs of Gods favor, in the loſs of his Image, and in the expoſing of the whole poſterity of <hi>Adam</hi> to endleſs ſhame and miſery, <hi>Rom.</hi> 8.7. 1 <hi>Cor.</hi> 2.14. <hi>Eph.</hi> 2.2. <hi>Job</hi> 15.15, 16.</p>
+            <p>Q. <hi>How came this great miſery on man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By <hi>Adams</hi> ſwarving from his God, who ſtanding in the room of whole mankinde, did through his tranſ<g ref="char:EOLhyphen"/>greſſion bring miſery upon all, <hi>Rom.</hi> 6.12.</p>
+            <p>Q. <hi>What is ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The leaſt breach of the Law of God, 1 <hi>John</hi> 3.4.</p>
+            <p>Q. <hi>How many ſorts of ſins be there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, Original and actual, <hi>Pſal.</hi> 51.5. <hi>Job</hi> 15.14. <hi>Jam.</hi> 3.2.</p>
+            <p>Q. <hi>What is original ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A determinate and wilful tranſgreſſion of the Law of God, depriving all the parts and faculties, both of ſoul and body, of all kinde of goodneſs, and all maner of happineſs, <hi>Gen.</hi> 6.5. <hi>Tit.</hi> 1.15. <hi>Rom</hi> 3.12.</p>
+            <p>Q <hi>How is this ſin conveighed from our firſt parents, unto their poſterity?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By natural generation; ſo that all that proceed from them that way, are conceived and born in ſin, <hi>Job</hi> 15.15, 16. <hi>Pſal.</hi> 51.5.</p>
+            <p>Q. <hi>What is actual ſin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the fruit of original corruption, whereby the ſoul of man walks in darkneſs, and contrary to the Law of God, <hi>Pſal.</hi> 82.5. <hi>Rom.</hi> 7.15, 16.</p>
+            <p>Q <hi>How is actual ſin diſtinguiſhed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> internally, Externally.</p>
+            <p>Q. <hi>How internally?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the faculties of the ſoul, as the minde, will, and affections, <hi>Eccleſ.</hi> 8.11. <hi>Epheſ.</hi> 4.22, 23.</p>
+            <p>Q. <hi>How externally?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the outward Members of the Body, concur<g ref="char:EOLhyphen"/>ing with the faculties of the ſoul, acting contrary to the will of God, <hi>Eph.</hi> 2.2. 2 <hi>Cor.</hi> 10.5. 2 <hi>Tim.</hi> 2.26.</p>
+            <p>Q. <hi>How is actual ſin effected?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is effected, either by omitting things that ought
+<pb facs="tcp:169876:5"/>to be done, or committing that which is forbidden.</p>
+            <p>Q. <hi>What be the differences of actual ſins committed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Their differences appear when committed, either through ignorance or knowledg, preſumption or obſti<g ref="char:EOLhyphen"/>nacy, <hi>Acts</hi> 17 30. <hi>Iſai.</hi> 59.2. <hi>Rom.</hi> 1.28.</p>
+            <p>Q. <hi>What are the puniſhments of ſin in this life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are either inward in the ſoul, as blindneſs of minde, hardneſs of heart, horror of conſcience, and the like; or elſe outward, as the curſe of God upon the crea<g ref="char:EOLhyphen"/>ture for our ſakes, whereby good things beſtowed upon us, become ſnares unto us, <hi>Eph.</hi> 4.18, 19. <hi>Deut.</hi> 28.16, 17, 18. <hi>Pſal.</hi> 69 22. <hi>Jere.</hi> 12.13.</p>
+            <p>Q. <hi>What are the puniſhments of ſin, when this life is ended?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Everlaſting ſeparation of both ſoul and body from the comfortable preſence of Almighty God, being for ever expoſed unto unutterable torments, <hi>Iſa.</hi> 59.2. <hi>Job</hi> 31 2. <hi>Heb.</hi> 10.27. <hi>Matth.</hi> 25.41. 2 <hi>Theſ.</hi> 1.9,</p>
+            <p>Q. <hi>Doth God leave all mankinde thus wofully to periſh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but of his free-grace and mercy delivereth his elect out of it, and giveth them an eſtate of perpetual hap<g ref="char:EOLhyphen"/>pineſs, <hi>Deut.</hi> 4.6 7. <hi>Joh.</hi> 6.37. <hi>Rom.</hi> 9.15, 16. <hi>Eph.</hi> 1.5, 6.</p>
+            <p>Q. <hi>How may a man attain to this happineſs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Only by Jeſus Chriſt, <hi>Iſai.</hi> 55.1. <hi>John</hi> 6.35, 37, 40. <hi>Act.</hi> 4 12.</p>
+            <p>Q. <hi>VVhat is Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is the eternal Son of God, made man like un<g ref="char:EOLhyphen"/>to us in all things, ſin only excepted, <hi>Iſai.</hi> 9.6. <hi>John</hi> 1.14. <hi>Phil.</hi> 3.7. <hi>Rom.</hi> 9.5.</p>
+            <p>Q. <hi>How prove you that Jeſus Chriſt is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his omnipotence, and his omniſcience, who is the knower of the heart, working wonders by the pow<g ref="char:EOLhyphen"/>er of his Spirit, in converting and ſaving his people, <hi>Iſai</hi> 9.6, 7. <hi>Rom.</hi> 1.4. 1 <hi>Theſ.</hi> 1.5.</p>
+            <p>Q. <hi>How prove you that he is man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By partaking of humane infirmities common to mans nature; as to be hungry, ſad, ſorrowful and the like, <hi>Matth.</hi> 26.38. <hi>Heb.</hi> 4.15.</p>
+            <p>Q. <hi>How could Chriſt be very man, and yet without ſin?</hi>
+            </p>
+            <pb facs="tcp:169876:5"/>
+            <p>
+               <hi>A.</hi> Becauſe he was not begotten after the ordinary courſe of nature, but was formed as man of the only ſub<g ref="char:EOLhyphen"/>ſtance of the Virgin, being ſanctified in the conception, and freed from the leaſt ſtain of ſin by the power of the Holy Ghoſt, <hi>Mat.</hi> 1.18. <hi>Luke</hi> 1.35. <hi>Gen.</hi> 3.15. 1 <hi>Pet.</hi> 1.19.</p>
+            <p>Q <hi>VVhy was is requiſite that he ſhould be God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the humane nature might be ſupported from ſinking under the infinite wrath of God, and the power of death, and that Gods juſtice might be ſatisfied, and his mercy procured for his people, <hi>Epheſ.</hi> 1.7. <hi>Iſai.</hi> 63.3. <hi>Col.</hi> 2.10. <hi>Heb.</hi> 7.6.</p>
+            <p>Q. <hi>VVhy was it requiſite that he ſhould be man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the proper works of each Nature might be accepted of God for us, and relied on by us, as the works of the whole perſon, <hi>Gal.</hi> 1.4, 5.</p>
+            <p>Q. <hi>VVhat are we farther to know and believe concern<g ref="char:EOLhyphen"/>ing Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That his divine and humane nature, though diſtinct one from another, are united and make up but one per<g ref="char:EOLhyphen"/>ſon, 2 <hi>Cor.</hi> 5.19 <hi>Heb.</hi> 13.8.</p>
+            <p>Q <hi>VVhat is the perſonal <g ref="char:V">Ʋ</g>nion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the aſſuming of the humane nature into the perſon of the Son of God, ſo that the manhood being not a perſon in it ſelf, is received into the unity of perſon with the ſecond perſon in the Trinity, and both wholly and onely ſubſiſt in the ſame, <hi>Gal.</hi> 4.4. <hi>Joh.</hi> 1.1. 1 <hi>Tim.</hi> 3.16.</p>
+            <p>Q. <hi>VVhat neceſſity was there that Chriſt ſhould aſſume mans nature, rather then any other?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God might be ſatisfied in the ſame nature that had offended, there being no remiſſion of ſins to be granted, without effuſion of blood; and therein he be<g ref="char:EOLhyphen"/>came a fit Mediator, to plead in mans behalf with the Father both God and man, <hi>Heb.</hi> 9.24.</p>
+            <p>Q. <hi>VVhy did the ſecond perſon in the Trinity aſſume our nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To repair the Image of God in us, who was him<g ref="char:EOLhyphen"/>ſelf the Image of his Father, and being himſelf the Son of God; hereby makes us the ſons of God, <hi>Heb.</hi> 1.3. 2 <hi>Cor.</hi> 4.4. <hi>Rom.</hi> 8.29.</p>
+            <pb facs="tcp:169876:6"/>
+            <p>Q. <hi>VVhat are the offices of Chriſt, to make him all<g ref="char:EOLhyphen"/>ſufficient?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is a Prieſt, a Prophet, and a King.</p>
+            <p>Q <hi>VVhy is he a Prieſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be a reconciliation for the ſins of his people, who being a ſacrifice without ſpot to God, makes con<g ref="char:EOLhyphen"/>tinual interceſſion for them, 1 <hi>Pet.</hi> 1.19. 1 <hi>Cor.</hi> 5 7.</p>
+            <p>Q. <hi>How doth the ſhort time of Chriſts ſufferings, ſatisfie eternal wrath?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, though the Godhead of Chriſt did not ſuffer, yet Chriſt ſuffering God ſuffered; which is more, then if for eternity the world it ſelf had ſuffered, <hi>Acts</hi> 20.28. 2 <hi>Cor.</hi> 5.16.</p>
+            <p>Q <hi>VVhy is he a Prophet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To reveal unto his Church by his Spirit and Word, the whole Will of God, and all things that concern their edification and ſalvation, <hi>Deut.</hi> 18.18. <hi>Ioh.</hi> 15.15. and 17.8. <hi>Col.</hi> 2.3.</p>
+            <p>Q. <hi>VVhy is he a King?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In electing a peculiar people unto himſelf, and in beſtowing graces upon them giving them Laws, where<g ref="char:EOLhyphen"/>by they may be viſibly governed; and powerfully order<g ref="char:EOLhyphen"/>ing all things for his own glory, and their good: <hi>Iſai.</hi> 9.6. <hi>Rom.</hi> 1.14. <hi>Col.</hi> 2.15.</p>
+            <p>Q. <hi>How may Chriſt become ours, with all his benefits?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If we endevor to be united to Chriſt: for union with him begets communion with all his benefits, <hi>Ioh.</hi> 6.53, 56. <hi>Phil.</hi> 3 9.</p>
+            <p>Q. <hi>How are we united to Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Myſtically and ſpiritually, <hi>Eph.</hi> 4.15, 16. 1 <hi>Cor.</hi> 6 17.</p>
+            <p>Q. <hi>What is myſtical and ſpiritual union?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the cohabitation and reſidence of Chriſt in our ſouls, by his Spirit, and by Faith, whereby we be<g ref="char:EOLhyphen"/>come one with Chriſt, <hi>Ioh.</hi> 1.12, 13. 1 <hi>Ioh.</hi> 3.24.</p>
+            <p>Q. <hi>VVhat is Faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſupernatural gift of God, wrought in our hearts by the power of Gods Spirit, whereby we do apply Chriſt and all his benefits, in particular unto our ſelves, <hi>Tit.</hi> 1.1. <hi>Rom.</hi> 15.17. <hi>Gal.</hi> 3.27. <hi>Eph.</hi> 2.8. <hi>Col.</hi> 2.12. <hi>Ioh.</hi> 1.12.</p>
+            <pb facs="tcp:169876:6"/>
+            <p>Q. <hi>How are men brought to this faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By preparation, and operation, having their hearts fitted to receive it, and thereby working faith in them, <hi>Job</hi> 11.13, 14, 15. <hi>Jerc.</hi> 4.3, 4. <hi>Ezek.</hi> 36.26, 27.</p>
+            <p>Q. <hi>How is the heart fitted to receive faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By being bruiſed, and humbled, and mollified, <hi>Iſai.</hi> 57.15. <hi>Ezek.</hi> 11.19.</p>
+            <p>Q. <hi>How doth God humble a man?</hi>
+            </p>
+            <p>
+               <hi>A</hi> By bringing him to a ſight of his ſins, and a true ſorrow for them, <hi>Job</hi> 7.20. <hi>Luke</hi> 18.13. <hi>Ioh</hi> 42 6. <hi>Luke</hi> 15.18, 19.</p>
+            <p>Q. <hi>How comes he to a ſight of his ſins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Moral Law of God, called <hi>The ten Com<g ref="char:EOLhyphen"/>mandments, Rom.</hi> 7.7.</p>
+            <p>Q. <hi>How is he brought to a ſorrow for them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By apprehending the dreadful curſe of the Law of God, temporal, and eternal, denounced for the ſmalleſt act of diſobedience, or breach of one Commandment, <hi>Deut.</hi> 27.26. <hi>Gal.</hi> 3.10. 2 <hi>Cor.</hi> 3.7.</p>
+            <p>Q. <hi>When mens hearts are prepared, how is Faith wrought in them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By being ſenſible of the neceſſity of gaining Chriſt, with an hungering deſire of that Grace that is offered in Chriſt, to be made partakers of it, <hi>Matth.</hi> 11.28. <hi>Luke</hi> 15.7. <hi>Iſai.</hi> 55.1. <hi>Iohn</hi> 7.37.</p>
+            <p>Q. <hi>What are the fruits of theſe deſires?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A ſpecial perſwaſion of Gods love towards the poor ſinner, wherby God doth imprint in the heart by the work of his Spirit, the aſſurance of his love, and of the pardon of ſin, <hi>Iſa.</hi> 65.24. <hi>Ioh</hi> 17.19. <hi>Matth.</hi> 7.7. 1 <hi>Tim.</hi> 1 15, 16.</p>
+            <p>Q. <hi>What are the benefits a faithful ſoul receives by Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Juſtification, Sanctification, and Redemption, <hi>Tit.</hi> 3.5. 1 <hi>Cor.</hi> 1.30.</p>
+            <p>Q. <hi>What is it to be juſt before God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When Chriſts obedience is made ours, and we hereby eſteemed juſt in Gods eyes, <hi>Rom.</hi> 5.19. <hi>&amp;</hi> 6.10. 2 <hi>Cor.</hi> 5.21.</p>
+            <p>Q. <hi>What is it to be ſanctified?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When our natures are inwardly renewed according
+<pb facs="tcp:169876:7"/>to Gods Image in righteouſneſs, and true holineſs, <hi>Eph.</hi> 2.1. <hi>Tit</hi> 3.5. 2 <hi>Cor.</hi> 3.18.</p>
+            <p>Q. <hi>VVhat is it to be redeemed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When both ſoul and body are freed from the curſe of the Law here, and eternal wrath hereafter, <hi>Rom.</hi> 5.18, 19.</p>
+            <p>Q <hi>What are the outward means for obtaining of faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The hearing of the Word of God preached, <hi>Prov.</hi> 29.18. <hi>Rom.</hi> 10.17.</p>
+            <p>Q. <hi>VVhat are the outward means for confirming of ſaith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The receiving of the Sacraments and prayer, <hi>Rom.</hi> 9.11. <hi>Mark</hi> 9.24.</p>
+            <p>Q. <hi>VVhat is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is an outward viſible ſigne, of an inward and ſpiritual Grace; inſtituted by Chriſt in his Church, to ſignifie, ſeal, and exhibit all the benefits of his Mediati<g ref="char:EOLhyphen"/>on; for the ſtrengthening and increaſe of Faith, and all other Graces unto his people.</p>
+            <p>Q. <hi>How many Sacraments hath Chriſt inſtituted in his Church?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, and no more; namely, Baptiſm, and the Supper of the Lord, <hi>Matth.</hi> 17.5.</p>
+            <p>Q. <hi>VVhat is Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a Sacrament of the new Teſtament, wherein Chriſt hath ordained, the waſhing of Water, in the name of the ſacred Trinity, to be a ſigne and ſeal of ingrafting into himſelf, of remiſſion of his ſin, by his blood; of our entrance into the Covenant of Grace, <hi>Matth.</hi> 28.19. <hi>Joh.</hi> 3.5. <hi>Gal.</hi> 3.17. 1 <hi>Cor.</hi> 6.11, 17.</p>
+            <p>Q. <hi>Who are to be admitted into Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All ſuch as in charity be within the Covenant of Grace, and promiſe of Life, that profeſs the Faith of Chriſt, and live in obedience to him, 1 <hi>Cor.</hi> 7.14. &amp; 1.16.</p>
+            <p>Q. <hi>What is the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a Sacrament of the new Teſtament, inſtitu<g ref="char:EOLhyphen"/>ted and ordained by Chriſt, for the ſpiritual nouriſhment of the ſoul, and groth in grace, whereby the faithful have their union and communion with Chriſt confirm<g ref="char:EOLhyphen"/>ed, and mutual fellowſhip with each other, as members
+<pb facs="tcp:169876:7"/>of the ſame myſtical body, 1 <hi>Cor.</hi> 12.12. and 10.16. <hi>Joh.</hi> 14.18. <hi>Epheſ.</hi> 2.17.</p>
+            <p>Q. <hi>What are the parts of this Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are three; the Word ſanctifying, the Bread and Wine ſignifying, and the Body and Blood of Chriſt ſignified.</p>
+            <p>Q. <hi>What is required of thoſe that are to receive the Sa<g ref="char:EOLhyphen"/>crament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Examination and preparation.</p>
+            <p>Q. <hi>Wherein ought they to examine themſelves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In ſuch things as are required in every worthy re<g ref="char:EOLhyphen"/>ceiver.</p>
+            <p>Q. <hi>VVhat are thoſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Knowledg in the uſe and ends of the Sacraments; of our being in Chriſt; of our Faith, to apply Chriſt and his benefits to us; of repentance, in forſaking and leaving ſin, before we preſume to take Chriſt; of our love to God, and our Brethren; and of our charity to all men, 1 <hi>Cor.</hi> 11.18.</p>
+            <p>Q. <hi>What are the ends of the Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The confirmation of faith, the pledg of our com<g ref="char:EOLhyphen"/>munion with Chriſtions, the memorial of Chriſts death, the ſeal of our aſſurance of happineſs, and the ſeeding of our ſouls, in aſſured hope of eternal his, 1 <hi>Cor.</hi> 10.16. <hi>Revel.</hi> 20.6. <hi>Matth.</hi> 16.28. <hi>Joh.</hi> 6.5.</p>
+            <p>Q. <hi>May all that profeſs the Faith, some to the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, ſuch as are groſly ignorant, and openly ſcan<g ref="char:EOLhyphen"/>dalous, are not to be admitted, notwithſtanding their out<g ref="char:EOLhyphen"/>ward profeſſion, until they receive inſtruction and mani<g ref="char:EOLhyphen"/>feſt their reformation unto the Church of God, <hi>Mat.</hi> 7.6.</p>
+            <p>Q. <hi>VVhat is the danger, if we receive unworthily?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If we come unworthily, we eat and drink damna<g ref="char:EOLhyphen"/>tion to our ſelves, we run the hazard of cauſing God to puniſh us in body, and afflict us in ſoul, and to give us over to further hardneſs of heart, and blindneſs in minde, 1 <hi>Cor.</hi> 11.29, 30.</p>
+            <p>Q. <hi>VVhat is required of us, in the time of admini<g ref="char:EOLhyphen"/>ſtring the Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A diligent obſervation of the Sacramental Ele<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:169876:8"/>and actions, heedfully diſcerning the Lords body, and affectionately meditating on his death and ſuffer<g ref="char:EOLhyphen"/>ings; waiting upon God in that Ordinance, with all holy reverence and attention.</p>
+            <p>Q. <hi>VVhat is required of us, after we have received the Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A vigilancy over our ſouls for the time to come, that we may fulfil our vows made to God at that Sacra<g ref="char:EOLhyphen"/>ment; and a care to praiſe God for his mercies, that hath left us ſuch a ſeal of his love, to ſtrengthen and comfort us for ever.</p>
+            <p>Q. <hi>VVhat is prayer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a calling upon God, in the name of Chriſt, for all things needful, either for body or ſoul, 1 <hi>Joh.</hi> 5.14. <hi>Ioh.</hi> 14.14. 1 <hi>Tim.</hi> 2.1, 2. <hi>Phil</hi> 4.6. 1 <hi>Sam.</hi> 1.17.</p>
+            <p>Q. <hi>What is required in asking of things needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An earneſt deſire of the heart, and faith to believe.</p>
+            <p>Q. <hi>VVhat ought chiefly to be deſired?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God might be glorified, that ſin might be mortified; that the ſoul might be ſanctified and ſtrength<g ref="char:EOLhyphen"/>ned by the power of God, againſt all temptations.</p>
+            <p>Q <hi>VVhat followeth the life of man on earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Death, which is the ſeparation of the ſoul from the body. 1 <hi>Cor.</hi> 15.26 <hi>Rom.</hi> 6.23.</p>
+            <p>Q <hi>Shall Death ſelfe upon all men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes verily, all ſave ſuch as ſhall be found alive at Chriſts coming, unto whom there ſhall be a change, inſtead of death, <hi>Pſal</hi> 49.19.</p>
+            <p>Q <hi>Death being the wages of ſin, why are not the righte<g ref="char:EOLhyphen"/>ous freed from it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are freed from the ſin, and curſe of it, and are made thereby capable of further communion with Chriſt in glory, <hi>Rom.</hi> 8.1. <hi>Zach.</hi> 13.1. <hi>Rom</hi> 6.14. <hi>Gal.</hi> 3.13.</p>
+            <p>Q. <hi>VVhat is their communion in glory with Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A</hi> Their communion is their perfection of holineſs, which their ſouls ſhall enjoy; beholding the face of God, in light and glory, waiting for the full redemption of their bodies, till at the laſt day they be again united to their ſouls, 1 <hi>Cor.</hi> 15 53.</p>
+            <pb facs="tcp:169876:8"/>
+            <p>Q. <hi>What are we to believe concerning the Reſurrection?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That all muſt appear before the Lord Jeſus Chriſt, both juſt and unjuſt, and ſhall be raiſed up by the power of Chriſt; the bodies of the Saints being made up like the glorious body of Chriſt, but the bodies of the wicked ſhall be raiſed up in ſhame and diſhonor, <hi>Matth.</hi> 25.14. 1 <hi>Theſ.</hi> 4.16, 17.</p>
+            <p>Q. <hi>What ſhall immediately follow after the reſurrection?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The general and final judgment of Angels and men.</p>
+            <p>Q. <hi>How ſhall the judgment be executed on the elect, and on the reprobate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The reprobate ſhall be thrown into hell but the elect carried into <hi>Abrahams</hi> boſom, <hi>Matth.</hi> 10.18. &amp; 25.46.</p>
+            <p>Q. <hi>What are we to conceive of life eternal?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It ſhall be ſo ſweet a communion with God, as that through Chriſt by the quickening power of his Spirit, God himſelf ſhall give life for ever, unto all the elect, <hi>Ioh.</hi> 14.19, 20. <hi>Col.</hi> 3.34. 1 <hi>Iohn</hi> 4.15.</p>
+            <p>Q. <hi>What are we, to think of the perfect glory in Heaven?</hi>
+            </p>
+            <p>
+               <hi>A,</hi> It ſhall be an incomparable excellency which the Elect as Chriſt himſelf ſhall enjoy, though in a lower degree: yet theſe ſhall be above meaſure glorious, both in ſouls and bodies, in a far more excellent ſtate, then any heart can wiſh or deſire, <hi>Luk.</hi> 20.36. <hi>Phil.</hi> 3.21. <hi>Col.</hi> 3.4.</p>
+            <p>Q. <hi>VVhat ſhall be the eſtate of the reprobate in Hell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They ſhall undergo unconceiveable and everlaſt<g ref="char:EOLhyphen"/>ing torments, being ſeparated for ever, from the preſence of God, that their miſery ſhall be as a continual death, wherein they ſhall be always dying, never dead, always conſuming, never conſumed, <hi>Matth.</hi> 25 41. <hi>Revel.</hi> 21.8. 2 <hi>Theſ.</hi> 1.9.</p>
+            <p>Q. <hi>VVhat is the principal end of the Saints bleſſedneſs, and the reprobates miſery?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The glory of God, who in his eternal Purpoſe and Decree, hath for his due, ended all things to his own glory, <hi>Prov.</hi> 16.4 <hi>Rom.</hi> 11.36.</p>
+            <p>Q. <hi>What is the eternal decree of God, concerning men and Angels?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a free appointing and fore ordaining of them
+<pb facs="tcp:169876:9"/>for a certain and everlaſting ſtate for his own glory, <hi>Rom.</hi> 9.22, 23. 1 <hi>Theſ.</hi> 5.9.</p>
+            <p>Q. <hi>What be the parts of this decree?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, Election and Reprobation.</p>
+            <p>Q. <hi>What is Election?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is an act of Gods free grace whereby according to the good pleaſure of his will, he doth ordain ſome both men and Angels to everlaſting bleſſedneſs for the declaration of the glory of his goodneſs, <hi>Epheſ.</hi> 1.5, 6. 1 <hi>Tim.</hi> 5.21.</p>
+            <p>Q. <hi>What is reprobation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is Gods fore-ordaining of ſome, both men and Angels, to eternal ſhame and diſhonor, for the mani<g ref="char:EOLhyphen"/>feſtation of the glory of his juſtice, <hi>Jude</hi> 4. <hi>Rom.</hi> 9 22. 1 <hi>Pet.</hi> 2.8. 2 <hi>Tim.</hi> 2.21.</p>
+            <p>Q. <hi>How may a man be aſſured of his election?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the power of the Word, the witneſs of the Spi<g ref="char:EOLhyphen"/>rit, and the fruits of ſanctification, 1 <hi>Theſ.</hi> 1.4, 5, 6. <hi>Rom.</hi> 8.18. <hi>Epheſ.</hi> 1.9. 2 <hi>Theſ.</hi> 2.15. <hi>Joh.</hi> 15.16. 1 <hi>Pet.</hi> 2 9.</p>
+            <p>Q <hi>May not this aſſurance be loſt, and he that is elected, totally, and fully fall away?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, for the foundation of God remaineth ſure; and though the communion of Gods children may be leſſened yet their union can never be diſſolved, <hi>Iſa.</hi> 46.10. 2 <hi>Tim.</hi> 2.19. <hi>Ioh.</hi> 6.37. <hi>Matth.</hi> 25.34. <hi>Rom.</hi> 11.2.</p>
+            <p>Q. <hi>Doth not the doctrine of Aſſurance, beget ſecurity in mans heart?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but rather an acknowledgment of Gods goodneſs to us, and the riches of his free-grace; that thereby we may be the more zealous in good works, <hi>Eph.</hi> 1.4. 1 <hi>Theſ.</hi> 2.13. <hi>Deut.</hi> 14.2. <hi>Rom.</hi> 11.2. 1 <hi>Pet.</hi> 2.9, 16.</p>
+            <p>Q. <hi>What ſhall be the condenmation of the reprobates at the laſt judgment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The living ſhall be changed in a moment, and at the ſound of the Trumpet be ſtricken with horror and dread, and the dead ſhall riſe to condemnation, having immortal bodies without glory, <hi>Ioh.</hi> 5.29. <hi>Matth.</hi> 25.41. 1 <hi>Theſ</hi> 4.16, 17.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
